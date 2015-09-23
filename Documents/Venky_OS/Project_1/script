@@ -1,0 +1,17 @@
+Script started on Tue 15 Sep 2015 05:33:08 PM CDT
+[?1034h{csgrads1:~} cd Project_1/
+{csgrads1:~/Project_1} gcc process_fork_sharedmemory.c -o process_fork_sharedmemory.c [K[K[K
+{csgrads1:~/Project_1} a[K./process_fork_sharedmemory 
+This is child (j) = 1 and pid = 30486
+This is child (j) = 2 and pid = 30487
+This is child (j) = 3 and pid = 30488
+This is child (j) = 4 and pid = 30489
+This is child (j) = 5 and pid = 30490
+
+All the 5 child processes has terminated
+Now terminating their parent process
+
+{csgrads1:~/Project_1} exit
+exit
+
+Script done on Tue 15 Sep 2015 05:33:41 PM CDT

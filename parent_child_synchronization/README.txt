@@ -1,3 +1,7 @@
+For more info :-
+
+https://sumeetjainengineer.wordpress.com/2015/09/20/processes-parent-and-child-process-concept-part-1/
+
 --> The program process_fork_sharedmemory.c has been successfully tested using GCC compiler.
 --> To compile this program, execute "gcc process_fork_sharedmemory.c -o process_fork_sharedmemory". This creates an output file named "process_fork_sharedmemory"
 --> To run this output file, execute "./process_fork_sharedmemory"
